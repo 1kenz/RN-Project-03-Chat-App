@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "1000921305467",
-    "firebase_url": "https://loginpage-85ac5.firebaseio.com",
-    "project_id": "loginpage-85ac5",
-    "storage_bucket": "loginpage-85ac5.appspot.com"
+    "project_number": "118514178500",
+    "firebase_url": "https://claruschat.firebaseio.com",
+    "project_id": "claruschat",
+    "storage_bucket": "claruschat.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1000921305467:android:da66de4c52161936d56dde",
+        "mobilesdk_app_id": "1:118514178500:android:7bc0f3ec32191921832c91",
         "android_client_info": {
-          "package_name": "com.loginpage"
+          "package_name": "com.portfolio_1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1000921305467-ou1j9f0cpigegrp6h2voqaekg3tjcdat.apps.googleusercontent.com",
+          "client_id": "118514178500-d4vb3t1ldur5bn4cc6sjh7uk3ktc5bj3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDYCiIm0cexMn8Rm8NcReJDYYHJHsSZHnY"
+          "current_key": "AIzaSyAIvDjjY9Ch0qUPYn-HZcuQ5fc4wBv4Mrw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1000921305467-ou1j9f0cpigegrp6h2voqaekg3tjcdat.apps.googleusercontent.com",
+              "client_id": "118514178500-d4vb3t1ldur5bn4cc6sjh7uk3ktc5bj3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
